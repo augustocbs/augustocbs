@@ -1,8 +1,22 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-  <div align="center">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=augustocbs&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=1E90FF&bg_color=0d1117" alt="Augusto Cesar github stats" /> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustocbs&layout=compact&langs_count=10&theme=radical&hide_border=true&title_color=1E90FF&text_color=1E90FF&bg_color=0d1117" />
-  </div>
+  <div align="center">
+    <table style="border: none;">
+    <tr>
+      <td style="border: none;" width="60%">
+        <p>### Iae, tudo bem? Meu nome é Augusto Cesar !!</p>
+        <p>- 🔭 Sou um desenvolvedor backend</p>
+        <p>- 📜 Atualmente cursando Ciência de Dados e IA</p>
+        <p>- 🌱 Trabalho principalmente com PHP e Laravel</p>
+        <p>- 🐭⚡ Sou um grande fã de Pokemon ⚪🔴</p>
+        <p>- 📚 Tenho conhecimentos extras em: Docker, AWS e .NET</p>
+      </td>
+      <td style="border: none;" width="40%" align="center">
+        <a href="https://github.com/augustocbs">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustocbs&layout=compact&langs_count=8&theme=tokyonight"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
