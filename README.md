@@ -34,4 +34,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
 
 ![](https://hit.yhype.me/github/profile?account_id=78914881)
-<img width="0" height="0" style="display: none" src="https://komarev.com/ghpvc/?username=augustocbs" />
+![](https://komarev.com/ghpvc/?username=augustocbs&style=pixel)
